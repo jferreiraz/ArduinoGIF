@@ -7,7 +7,7 @@
 >Site para a conversão em array C: https://notisrac.github.io/FileToCArray/
 
 
-## Configuração do ESP32: <br>
+## Configuração do ESP32: <br> 
 
 1. Acessar Arduino IDE
  - Clique no canto superior esquerdo em 'Arquivo'
